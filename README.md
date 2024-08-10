@@ -2,4 +2,5 @@
 
 **SESSION ONE**
 
-1.xx
+1. Evaluation Session One: the presentation and tutorial provided to all 3 respondents individually
+2. xx
