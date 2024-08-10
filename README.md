@@ -11,4 +11,5 @@
 
 **SESSION TWO**
 
-1. xx
+1. Evaluation Session Two: the presentation and tutorial provided to all 3 respondents individually
+2. xx
