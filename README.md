@@ -15,4 +15,5 @@
 **SESSION TWO**
 
 1. Evaluation Session Two: the presentation and tutorial provided to all 3 respondents individually
-2. xx
+2. Evaluation Session Two Script: he script used in the second session's tutorial (ensuring each respondent received the same instructions)
+3. xx
